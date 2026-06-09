@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/naimalbustami](https://www.kaggle.com/naimalbustami)
 
-- 💬 Ask me about **Python, Data Science, NLP, Data Analysis**
+- 💬 **Ask me about:** Python, Data Science & ML, Workflow Automation (n8n), Backend Development, and Data Pipelines
 
 - 📫 How to reach me **naim_bustami@outlook.com**
 
