@@ -16,7 +16,6 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/naimalbustami/discussion/light" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/naimalbustami](https://www.kaggle.com/naimalbustami)
 - 💬 **Ask me about:** Python, Data Science & ML, Workflow Automation (n8n), Automation Engineering, and Intelligent Data Pipelines
 - 📫 How to reach me **naeemalbustami20@gmail.com**
 
