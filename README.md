@@ -43,9 +43,3 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
-
----
-
-## 🚀 Featured AI & Automation Tools
-
-### **1. [NaimTrendBot Engine](https://github.com/naimalbustami)** An automated production pipeline that bridges workflow automation with advanced AI to track, filter, and summarize trending tech and data science insights.
