@@ -2,7 +2,7 @@
    <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>
 
-<h1 align="center">Hi 👋, I'm naim bustami</h1>
+<h1 align="center">Hi 👋, I'm Naim Al Bustami</h1>
 <h3 align="center">A passionate Data Scientist from Jordan</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Featured Tool: Autonomous AI Trend Agent (n8n + RAG)
+## 🚀 Featured AI & Automation Tools
 
-### **[NaimTrendBot Engine](https://github.com/naimalbustami)** 
+### **1. [NaimTrendBot Engine](https://github.com/naimalbustami)** 
 An automated production pipeline that bridges workflow automation with advanced AI to track, filter, and summarize trending tech and data science insights.
