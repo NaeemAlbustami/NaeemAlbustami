@@ -9,12 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence;Junior+Data+Scientist;Automation+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/naimalbustami/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/naimalbustami/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/naimalbustami/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/naimalbustami/discussion/light" />
-</p>
+
 
 - 💬 **Ask me about:** Python, Data Science & ML, Workflow Automation (n8n), Automation Engineering, and Intelligent Data Pipelines
 - 📫 How to reach me **naeemalbustami20@gmail.com**
